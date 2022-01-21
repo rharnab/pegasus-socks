@@ -1,0 +1,1 @@
+{"agent_commission_persentage":5,"shop_commission_persentage":20}
